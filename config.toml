@@ -9,13 +9,13 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Testing Academic Theme"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
 copyright = "&copy; 2018"
 
-theme = "academic"
+theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -358,18 +358,51 @@ enableGitInfo = false
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
-# Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+[languages]
 
-# Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
-#  title = "Chinese website title..."
-#  [languages.zh.params]
-#    name = "Your name in Chinese..."
-#    role = "Your role in Chinese..."
-#  [[languages.zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[languages.en]
+ languageName =  "English"
+ languageCode = "en-us"
+ weight = 1
+ contentDir= "content/english"
+
+
+[languages.hu]
+  languageName = "Magyar"
+  languageCode = "hu"
+  title = "Hungarian website title..."
+  contentDir = "content/hungarian"
+  weight = 2
+  [languages.hu.params]
+    name = "Lena Smith"
+    role = "a mesterséges intelligencia egyetemi tanára"
+  [[languages.hu.menu.main]]
+    name = "Rólam"
+    url = "#about"
+    weight = 1
+   [[languages.hu.menu.main]]
+    name = "Blog"
+    url = "#posts"
+    weight = 3
+   [[languages.hu.menu.main]]
+    name = "Publikációk"
+    url = "#publications_selected"
+    weight = 2
+    [[languages.hu.menu.main]]
+  name = "Projektek"
+  url = "#projects"
+  weight = 4
+  [[languages.hu.menu.main]]
+  name = "Útmutatók"
+  url = "/tutorial/"
+  weight = 5
+
+[[languages.hu.menu.main]]
+  name = "Kapcsolat"
+  url = "#contact"
+  weight = 6
+
+
+
+
+    

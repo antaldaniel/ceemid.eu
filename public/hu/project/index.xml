@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on CEEMID.</title>
+    <link>/hu/project/</link>
+    <description>Recent content in Projects on CEEMID.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/hu/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belső projekt</title>
+      <link>/hu/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/project/internal-project/</guid>
+      <description>Ej mi a kő! tyúkanyó, kend A szobában lakik itt bent? Lám, csak jó az isten, jót ád, Hogy fölvitte a kend dolgát!
+Itt szaladgál föl és alá, Még a ládára is fölszáll, Eszébe jut, kotkodákol, S nem verik ki a szobábol.
+Dehogy verik, dehogy verik! Mint a galambot etetik, Válogat a kendermagban, A kiskirály sem él jobban.
+Ezért aztán, tyúkanyó, hát Jól megbecsűlje kend magát, Iparkodjék, ne legyen ám Tojás szűkében az anyám.</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/hu/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

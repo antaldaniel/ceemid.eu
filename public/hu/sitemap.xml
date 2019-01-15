@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tutorial/example/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tutorial/example/" hreflang="en"/>
+    
+      <loc>/hu/tutorial/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tutorial/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tutorial/" hreflang="en"/>
+    
+      <loc>/hu/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/talk/example/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/talk/example/" hreflang="en"/>
+    
+      <loc>/hu/talk/example/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/talk/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
+    
+      <loc>/hu/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/post/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
+    
+      <loc>/hu/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
+    
+      <loc>/hu/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/project/internal-project/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/project/internal-project/" hreflang="en"/>
+    
+      <loc>/hu/project/internal-project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/project/external-project/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/project/external-project/" hreflang="en"/>
+    
+      <loc>/hu/project/external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/post/getting-started/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/post/getting-started/" hreflang="en"/>
+    
+      <loc>/hu/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication/person-re-id/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication/person-re-id/" hreflang="en"/>
+    
+      <loc>/hu/publication/person-re-id/</loc>
+      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication/clothing-search/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication/clothing-search/" hreflang="en"/>
+    
+      <loc>/hu/publication/clothing-search/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/1/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/1/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/1/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/2/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/2/</loc>
+      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/academic/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/academic/" hreflang="en"/>
+    
+      <loc>/hu/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
+    
+      <loc>/hu/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
+    
+      <loc>/hu/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/deep-learning/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/deep-learning/" hreflang="en"/>
+    
+      <loc>/hu/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/demo/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/demo/" hreflang="en"/>
+    
+      <loc>/hu/tags/demo/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
+    
+      <loc>/hu/project/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
+    
+      <loc>/hu/publication_types/</loc>
+      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/slides/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/slides/" hreflang="en"/>
+    
+      <loc>/hu/slides/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/slides/example-slides/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/slides/example-slides/" hreflang="en"/>
+    
+      <loc>/hu/slides/example-slides/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
+    
+      <loc>/hu/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/tags/mesters%C3%A9ges-intelligencia/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

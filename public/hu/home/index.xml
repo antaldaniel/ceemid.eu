@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on CEEMID.</title>
+    <link>/hu/home/</link>
+    <description>Recent content in Homes on CEEMID.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/hu/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/hu/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/hu/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/hu/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/about/</guid>
+      <description>Életrajz Lena Smith a mesterséges intelligencia professzora a Standford Egyetemen.</description>
+    </item>
+    
+    <item>
+      <title>Készségek</title>
+      <link>/hu/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Szakmai tapasztalat</title>
+      <link>/hu/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hu/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/hu/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>/hu/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Válogatott előadások</title>
+      <link>/hu/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/hu/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/hu/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/hu/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oktatás</title>
+      <link>/hu/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/teaching/</guid>
+      <description>Ez a custom widget alkalmazására egy példa.
+Az X Egyetemen a következő kurzusokat oktatom:
+ CS101: Bevezetés a számítástechnikába CS102: Bevezetés a számítástechnikába CS103: Bevezetés a számítástechnikába CS104: Bevezetés a számítástechnikába CS105: Bevezetés a számítástechnikába CS106: Bevezetés a számítástechnikába CS107: Bevezetés a számítástechnikába  </description>
+    </item>
+    
+    <item>
+      <title>Cimkék</title>
+      <link>/hu/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/hu/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
