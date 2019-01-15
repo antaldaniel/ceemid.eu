@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Testing Academic Theme"
+title = "CEEMID"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -316,8 +316,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Surveys"
+  url = "/surveys/"
   weight = 5
 
 [[menu.main]]
@@ -370,14 +370,14 @@ enableGitInfo = false
 [languages.hu]
   languageName = "Magyar"
   languageCode = "hu"
-  title = "Hungarian website title..."
+  title = "CEEMID"
   contentDir = "content/hungarian"
   weight = 2
   [languages.hu.params]
-    name = "Lena Smith"
-    role = "a mesterséges intelligencia egyetemi tanára"
+    name = "CEEMID"
+    role = ""
   [[languages.hu.menu.main]]
-    name = "Rólam"
+    name = "CEEMID"
     url = "#about"
     weight = 1
    [[languages.hu.menu.main]]
@@ -393,8 +393,8 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
   [[languages.hu.menu.main]]
-  name = "Útmutatók"
-  url = "/tutorial/"
+  name = "Felmérések"
+  url = "/surveys/"
   weight = 5
 
 [[languages.hu.menu.main]]
