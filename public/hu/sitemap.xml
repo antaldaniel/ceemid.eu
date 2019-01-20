@@ -4,22 +4,16 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/cap/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/cap/" hreflang="en"/>
-    
-      <loc>/hu/cap/</loc>
-      <lastmod>2019-01-09T00:00:00+01:00</lastmod>
+      <loc>/hu/cap_hu/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/cap/example/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/cap/example/" hreflang="en"/>
-    
-      <loc>/hu/cap/example/</loc>
-      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+      <loc>/hu/cap_hu/cap_surveys/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
   

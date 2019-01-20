@@ -332,16 +332,16 @@ enableGitInfo = false
   url = "/surveys/"
   weight = 5
   identifier = "surveys"
-  [[lmenu.main]]
+ [[lmenu.main]]
   name = "CAP"
-  url = "/cap/"
-  weight = 5
+  url = "/surveys/"
+  weight = 6
   parent = "surveys"
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -415,9 +415,9 @@ enableGitInfo = false
   url = "/surveys/"
   weight = 5
   identifier = "surveys"
-    [[languages.hu.menu.main]]
+  [[languages.hu.menu.main]]
   name = "CAP"
-  url = "/cap/"
+  url = "/cap_hu/"
   weight = 5
   parent = "surveys"
 
