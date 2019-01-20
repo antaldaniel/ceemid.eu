@@ -7,12 +7,12 @@ light = true
 # Primary
 primary = "#007CBB"
 primary_light = "#4EC0E4" 
-primary_dark = "#007CBB"
+primary_dark = "#00348A"
 
 # Menu
 menu_primary = "#007CBB"
 menu_text = "#fff"
-menu_text_active = "#007CBB"
+menu_text_active = "#4EC0E4" 
 menu_title = "#fff"
 
 # Home sections
