@@ -19,8 +19,8 @@ weight = 5
  
 +++
 
-# Biography
+# CEEMID
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In 2014 three collective management societies societies, SOZA, Artisjus and HDS realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses in order to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations like CISAC and GESAC and the European Union. They signed a `Memorandum of Understanding Measuring and Reporting Regional Economic Value Added, National Income and Employment by the Music Industry in a Creative Industries Perspective`.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+CEEMID was born in 2014 and its structure and the use of the databases evolved over 5 years.  Currently they contain hundreds of quantitative indicators relevant for the music industry, the audiovisual industry, and key business partner industries, such as restaurants, hotels, pubs and tourism.  

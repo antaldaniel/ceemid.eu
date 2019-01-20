@@ -331,6 +331,12 @@ enableGitInfo = false
   name = "Surveys"
   url = "/surveys/"
   weight = 5
+  identifier = "surveys"
+  [[lmenu.main]]
+  name = "CAP"
+  url = "/cap/"
+  weight = 5
+  parent = "surveys"
 
 [[menu.main]]
   name = "Contact"
@@ -411,7 +417,7 @@ enableGitInfo = false
   identifier = "surveys"
     [[languages.hu.menu.main]]
   name = "CAP"
-  url = "/surveys/"
+  url = "/cap/"
   weight = 5
   parent = "surveys"
 
