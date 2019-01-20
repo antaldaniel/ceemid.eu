@@ -333,7 +333,7 @@ enableGitInfo = false
   weight = 5
   identifier = "surveys"
  [[lmenu.main]]
-  name = "CAP"
+  name = "CAP EN"
   url = "/cap_en/"
   weight = 6
   parent = "surveys"
