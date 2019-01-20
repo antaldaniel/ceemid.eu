@@ -12,7 +12,39 @@
     
     <url>
     
+      <loc>/hu/film_hu/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/musicians_hu/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/hu/cap_hu/cap_felmeresek/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/film_hu/mozgokepes_felmeresek/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/musicians_hu/zenei_felmeresek/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     

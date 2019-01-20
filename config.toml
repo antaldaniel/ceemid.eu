@@ -333,8 +333,18 @@ enableGitInfo = false
   weight = 5
   identifier = "surveys"
  [[menu.main]]
-  name = "CAP"
+  name = "CAP Surveys"
   url = "/cap_en/"
+  weight = 6
+  parent = "surveys"
+  [[menu.main]]
+  name = "Music Industry Surveys"
+  url = "/musicians_en/"
+  weight = 6
+  parent = "surveys"
+    [[languages.hu.menu.main]]
+  name = "Film Industry Surveys"
+  url = "/film_en/"
   weight = 6
   parent = "surveys"
 
@@ -416,15 +426,26 @@ enableGitInfo = false
   weight = 5
   identifier = "surveys"
   [[languages.hu.menu.main]]
-  name = "CAP"
+  name = "CAP közönség és részvétel felmérések"
   url = "/cap_hu/"
   weight = 5
   parent = "surveys"
+  [[languages.hu.menu.main]]
+  name = "Zeneipari felmérések"
+  url = "/musicians_hu/"
+  weight = 6
+  parent = "surveys"
+    [[languages.hu.menu.main]]
+  name = "Mozgóképes, filmipari felmérések"
+  url = "/film_hu/"
+  weight = 7
+  parent = "surveys"
+
 
 [[languages.hu.menu.main]]
   name = "Kapcsolat"
   url = "#contact"
-  weight = 6
+  weight = 8
 
 
 
