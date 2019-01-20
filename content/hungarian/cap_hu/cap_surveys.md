@@ -11,7 +11,7 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 linktitle = "Royalty Setting"
 [menu.cap_hu]
-  parent = "Royalty Setting"
+  parent = "CAP felmérések"
   weight = 1
 +++
 
