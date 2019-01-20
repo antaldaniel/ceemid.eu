@@ -100,7 +100,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "apogee"
+  color_theme = "ceemid"
   # Enable users to switch between day and night mode?
   day_night = true
 
@@ -436,8 +436,7 @@ enableGitInfo = false
   url = "/film_hu/"
   weight = 7
   parent = "surveys"
-
-
+  
 [[languages.hu.menu.main]]
   name = "Kapcsolat"
   url = "#contact"
