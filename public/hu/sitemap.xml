@@ -4,8 +4,32 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tutorial/example/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tutorial/example/" hreflang="en"/>
+      <loc>/hu/cap/</loc>
+      <lastmod>2019-01-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/hu/cap/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="/hu/surveys/example/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/surveys/example/" hreflang="en"/>
+    
+      <loc>/hu/surveys/example/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
     
       <loc>/hu/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
@@ -15,8 +39,16 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tutorial/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/tutorial/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/surveys/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/surveys/" hreflang="en"/>
+    
+      <loc>/hu/surveys/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
     
       <loc>/hu/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>

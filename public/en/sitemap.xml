@@ -4,10 +4,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tutorial/example/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tutorial/example/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/surveys/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/surveys/example/" hreflang="hu"/>
     
-      <loc>/tutorial/example/</loc>
+      <loc>/surveys/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     
@@ -15,10 +15,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/tutorial/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tutorial/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/surveys/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/surveys/" hreflang="hu"/>
     
-      <loc>/tutorial/</loc>
+      <loc>/surveys/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
     

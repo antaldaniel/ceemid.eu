@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAP felmérések on CEEMID</title>
+    <link>/hu/cap/</link>
+    <description>Recent content in CAP felmérések on CEEMID</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hu</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/hu/cap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CAP felmérések</title>
+      <link>/hu/cap/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/hu/cap/example/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Mi a CAP? &amp;hellip;
+CAP Hungary 2014 &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
