@@ -15,9 +15,8 @@ linktitle = "Overview"
   weight = 1
 +++
 
-## What are CAP Surveys?
+## What are Music Industry Professional Surveys?
 
-Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc.  They are based on various quantative sociological models and had been standardized by the Eurostat working group [ESSNet-Culture](http://ec.europa.eu/assets/eac/culture/library/reports/ess-net-report_en.pdf).
+The __Music Industry Professional Surveys__ and the similar _Audiovisual Industries Professional Surveys_ were designed to fill out the gaps from other data sources.  These surveys are anonymously asking music and film professionals about their work, their royalties and other incomes, and some budgetary issues.  The CEEMID Music Professional Surveys are among the biggest musician surveys, besides the survey supporting the [UK Measuring Music Surveys]( https://www.ukmusic.org/research/measuring-music-2017/).
 
-The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forcasting, market analytics, royalty and compensation value setting. 
 
