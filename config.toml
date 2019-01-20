@@ -342,7 +342,7 @@ enableGitInfo = false
   url = "/musicians_en/"
   weight = 6
   parent = "surveys"
-    [[languages.hu.menu.main]]
+  [[menu.main]]
   name = "Film Industry Surveys"
   url = "/film_en/"
   weight = 6
