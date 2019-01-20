@@ -1,5 +1,5 @@
 +++
-title = "Áttekintés"
+title = "Overview"
 
 date = 2019-01-03T00:00:00
 # lastmod = 2019-01-03T00:00:00
@@ -9,9 +9,9 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Áttekintés"
-[menu.cap_hu]
-  parent = "CAP felmérések"
+linktitle = "Overview"
+[menu.cap_en]
+  parent = "CAP Surveys"
   weight = 1
 +++
 

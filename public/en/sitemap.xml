@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>/cap_en/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/cap_en/cap_surveys/</loc>
+      <lastmod>2019-01-03T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/surveys/example/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/surveys/example/" hreflang="hu"/>
     
