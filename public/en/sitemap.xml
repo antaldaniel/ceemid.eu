@@ -52,6 +52,14 @@
     
     <url>
     
+      <loc>/en/data/</loc>
+      <lastmod>2018-09-09T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/en/surveys/example/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/surveys/example/" hreflang="hu"/>
     
@@ -167,6 +175,14 @@
     
       <loc>/en/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/data/data_sources/</loc>
+      <lastmod>2010-01-20T00:00:00+01:00</lastmod>
     </url>
     
   

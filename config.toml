@@ -322,26 +322,30 @@ enableGitInfo = false
   name = "Projects"
   url = "#projects"
   weight = 4
+[[menu.main]]
+  name = "Data"
+  url = "/data/"
+  weight = 5
 
 [[menu.main]]
   name = "Surveys"
   url = "/surveys/"
-  weight = 5
+  weight = 6
   identifier = "surveys"
  [[menu.main]]
   name = "CAP Surveys"
   url = "/cap_en/"
-  weight = 6
+  weight = 7
   parent = "surveys"
   [[menu.main]]
   name = "Music Industry Surveys"
   url = "/musicians_en/"
-  weight = 6
+  weight = 8
   parent = "surveys"
   [[menu.main]]
   name = "Film Industry Surveys"
   url = "/film_en/"
-  weight = 6
+  weight = 9
   parent = "surveys"
 
 [[menu.main]]
