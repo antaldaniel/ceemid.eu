@@ -401,10 +401,10 @@ enableGitInfo = false
   title = "CEEMID"
   contentDir = "content/hungarian"
   weight = 2
-  [languages.hu.params]
-    name = "CEEMID"
-    role = ""
-  [[languages.hu.menu.main]]
+[languages.hu.params]
+  name = "CEEMID"
+  role = ""
+[[languages.hu.menu.main]]
     name = "CEEMID"
     url = "#about"
     weight = 1
