@@ -156,9 +156,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/post/getting-started/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/post/getting-started/" hreflang="en"/>
-    
       <loc>/hu/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>
     </url>
@@ -212,9 +209,6 @@
   
     
     <url>
-    
-      <xhtml:link rel="alternate" href="/hu/tags/academic/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/tags/academic/" hreflang="en"/>
     
       <loc>/hu/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>

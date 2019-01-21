@@ -82,6 +82,14 @@
     
     <url>
     
+      <loc>/en/post/google_trends_seasonality/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/en/talk/example/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/talk/example/" hreflang="hu"/>
     
@@ -148,17 +156,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/en/post/getting-started/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/post/getting-started/" hreflang="hu"/>
-    
-      <loc>/en/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="/en/publication/person-re-id/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/publication/person-re-id/" hreflang="hu"/>
     
@@ -206,18 +203,6 @@
     
       <loc>/en/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/en/tags/academic/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/academic/" hreflang="hu"/>
-    
-      <loc>/en/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -321,7 +306,16 @@
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
     
       <loc>/en/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/seasonality-google-concerts-benchmarking-bestweek/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
