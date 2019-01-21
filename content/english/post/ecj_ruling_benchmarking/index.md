@@ -8,7 +8,7 @@ draft = false
 authors = []
 
 tags = ["EUCJ", "jurisprudence", "benchmarking", "public performance royalties"]
-summary = "Google Trends data combined with regular, programmatic data extraction and surveys it is an extremely powerful tool to provide timely forecasts and to give your surveys an extra granularity in time, or down to city level."
+summary = "We believe that our benchmarks  fulfill the criteria set out by the ECJ in AKKA/LAA vs Konkurences padome, but it goes beyond the imagination of the parties involved in the case.  Our CEEMID catalog consist of about 1000 objective indicators than can contribute to understanding differences in tariff levels across Europe."
 
 # projects = ["Royalties"]
 

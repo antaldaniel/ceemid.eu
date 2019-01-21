@@ -254,9 +254,6 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/hu/tags/demo/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/tags/demo/" hreflang="en"/>
-    
       <loc>/hu/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>

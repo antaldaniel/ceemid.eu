@@ -142,10 +142,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/en/project/external-project/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/project/external-project/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/en/project/internal-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/project/internal-project/" hreflang="hu"/>
     
-      <loc>/en/project/external-project/</loc>
+      <loc>/en/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -153,10 +153,10 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="/en/project/internal-project/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/project/internal-project/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/en/project/external-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/hu/project/external-project/" hreflang="hu"/>
     
-      <loc>/en/project/internal-project/</loc>
+      <loc>/en/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
     </url>
     
@@ -245,18 +245,6 @@
       <xhtml:link rel="alternate" href="/hu/tags/deep-learning/" hreflang="hu"/>
     
       <loc>/en/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <xhtml:link rel="alternate" href="/en/tags/demo/" hreflang="en"/>
-      <xhtml:link rel="alternate" href="/hu/tags/demo/" hreflang="hu"/>
-    
-      <loc>/en/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -369,6 +357,15 @@
     
       <loc>/en/tags/jurisprudence/</loc>
       <lastmod>2017-09-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/mechanical-royalties/</loc>
+      <lastmod>2016-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
