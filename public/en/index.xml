@@ -73,6 +73,8 @@
 &lt;h2 id=&#34;what-are-music-industry-professional-surveys&#34;&gt;What are Music Industry Professional Surveys?&lt;/h2&gt;
 
 &lt;p&gt;The &lt;strong&gt;Music Industry Professional Surveys&lt;/strong&gt; and the similar &lt;em&gt;Audiovisual Industries Professional Surveys&lt;/em&gt; were designed to fill out the gaps from other data sources.  These surveys are anonymously asking music and film professionals about their work, their royalties and other incomes, and some budgetary issues.  The CEEMID Music Professional Surveys are among the biggest musician surveys, besides the survey supporting the &lt;a href=&#34;https://www.ukmusic.org/research/measuring-music-2017/&#34; target=&#34;_blank&#34;&gt;UK Measuring Music Surveys&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The three income streams model is essentially a value chain based model that was developed in the United States and adopted by the European Commission’s Joint Research Center for &lt;a href=&#34;http://publications.jrc.ec.europa.eu/repository/bitstream/JRC69881/jrc69881.pdf&#34; target=&#34;_blank&#34;&gt;European creative and cultural policy purposes&lt;/a&gt;. We made minor adaptations in the three income model for applicability in Central Europe.&lt;/p&gt;
 </description>
     </item>
     
@@ -555,19 +557,19 @@ git submodule update --init --recursive
 
 &lt;p&gt;Following the EU directive on the re-use of public sector information, open statistics and open government initiatives, we are using raw data collected for statistical or research purposes and creating new statistical products. For example, we are re-using price survey data in the relevant sectors that is used for inflation calculation or survey data collected about digital service in the EU. The re-use of this data significantly reduces market research and data collections or surveying costs, and increases value with international and historical comparison ability.&lt;/p&gt;
 
-&lt;p&gt;##Survey Data&lt;/p&gt;
+&lt;h2 id=&#34;survey-data&#34;&gt;Survey Data&lt;/h2&gt;
 
 &lt;p&gt;We are creating online surveys for musicians and filmmakers, and commissioning nationally representative Cultural Access and Participation surveys as primary data sources. You can read more about this in the Survey section of the page.&lt;/p&gt;
 
-&lt;p&gt;##Industry sources&lt;/p&gt;
+&lt;h2 id=&#34;industry-sources&#34;&gt;Industry sources&lt;/h2&gt;
 
 &lt;p&gt;We are collecting many indicators published by industry associations.  We also integrate non-public, membership-based data in our work for our clients, such as IFPI and CISAC internal financial tables.&lt;/p&gt;
 
-&lt;p&gt;##Big data&lt;/p&gt;
+&lt;h2 id=&#34;big-data&#34;&gt;Big data&lt;/h2&gt;
 
 &lt;p&gt;We are collecting data from various ‘big data’ sources to understand seasonality of demand or expected competition among events in a certain city.  Big data sources often offer a more precise, relevant and cheaper alternative to consumer surveys.  For example, we can analyze ticket sales seasonality with the help of Google search volumes or understand the popularity of a concert in the context of geolocational real-time data on other events in the neighborhood.&lt;/p&gt;
 
-&lt;p&gt;##Integrating Outside Data With Client Financial And Transactional Data&lt;/p&gt;
+&lt;h2 id=&#34;integrating-outside-data-with-client-financial-and-transactional-data&#34;&gt;Integrating Outside Data With Client Financial And Transactional Data&lt;/h2&gt;
 
 &lt;p&gt;We are integrating statistical data, open data, survey data, industry sources and big data sources with our Clients internal financial and transactional data put the Client’s data into context.  For example, we can analyze the gains/losses in public performance licenses in the context of international royalty tariffs, local purchasing power, tourisms flows, seasonal factors and so on.&lt;/p&gt;
 </description>
