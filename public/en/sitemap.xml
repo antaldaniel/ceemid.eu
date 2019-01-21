@@ -90,6 +90,14 @@
     
     <url>
     
+      <loc>/en/post/ecj_ruling_benchmarking/</loc>
+      <lastmod>2017-09-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/en/talk/example/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/talk/example/" hreflang="hu"/>
     
@@ -257,6 +265,24 @@
     
     <url>
     
+      <loc>/en/tags/eucj/</loc>
+      <lastmod>2017-09-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/google/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="/en/project/" hreflang="en"/>
       <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
     
@@ -314,7 +340,61 @@
     
     <url>
     
-      <loc>/en/tags/seasonality-google-concerts-benchmarking-bestweek/</loc>
+      <loc>/en/tags/benchmarking/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/bestweek/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/concerts/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/jurisprudence/</loc>
+      <lastmod>2017-09-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/public-performance-royalties/</loc>
+      <lastmod>2017-09-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/seasonality/</loc>
+      <lastmod>2017-10-20T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/en/tags/ticket-sales/</loc>
       <lastmod>2017-10-20T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>

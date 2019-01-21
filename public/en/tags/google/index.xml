@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on CEEMID</title>
-    <link>/en/post/</link>
-    <description>Recent content in Posts on CEEMID</description>
+    <title>Google on CEEMID</title>
+    <link>/en/tags/google/</link>
+    <description>Recent content in Google on CEEMID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/en/tags/google/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/en/post/google_trends_seasonality/</guid>
       <description>An important aspect of the relatively week CEE markets is the very strong seasonality aspect. Ljubjlana, Zagreb, Budapest and Prague are full with life and concerting opportunities in December, but the difference in interest for concerts among peak months and low month can be as much as 40%, about the double of the all-year Viennese market. Summer festivals obviously alter the picture, but it is essential for tour organizers as well as concert promoters to understand seasonality and to build longer tour seasons in these countries.</description>
-    </item>
-    
-    <item>
-      <title>ECJ Ruling Boosting Interest In European Royalty Benchmarking</title>
-      <link>/en/post/ecj_ruling_benchmarking/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
-      
-      <guid>/en/post/ecj_ruling_benchmarking/</guid>
-      <description>In our analysis, smaller societies under political influence could often not raise their revenues in line with the rising incomes of their economies. While the Baltics, the CEE and SEE region are not so poor compared to Western Europe as they used to be 20 years ago, most tariffs are way below reasonable levels. This is an opportunity. At the same time some societies are charging rather high and disputable tariffs in some cases to make up the revenue.</description>
     </item>
     
   </channel>

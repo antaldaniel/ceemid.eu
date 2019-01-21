@@ -8,16 +8,12 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = ["seasonality, Google, concerts, benchmarking, bestweek"]
+tags = ["seasonality", "Google", "concerts", "benchmarking", "bestweek", "ticket-sales"]
 summary = "Google Trends data combined with regular, programmatic data extraction and surveys it is an extremely powerful tool to provide timely forecasts and to give your surveys an extra granularity in time, or down to city level."
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+# projects = ["Marketing"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
