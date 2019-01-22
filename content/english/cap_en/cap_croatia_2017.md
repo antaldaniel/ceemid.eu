@@ -22,3 +22,5 @@ The survey was used to calculate the fair compensation for private copying in Cr
 N = 809
 Methodology = CAPI [Hendal](http://www.hendal.hr/)
 233 variables.
+
+We measured the total number of songs and audiovisual works in the households, new acquisitions, unlicensed copies, torrenting, and the standard CAP variables for comparison. 
