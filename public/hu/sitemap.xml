@@ -4,7 +4,10 @@
     
     <url>
     
-      <loc>/hu/cap_hu/</loc>
+      <xhtml:link rel="alternate" href="/hu/cap/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/cap/" hreflang="en"/>
+    
+      <loc>/hu/cap/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -12,7 +15,10 @@
     
     <url>
     
-      <loc>/hu/film_hu/</loc>
+      <xhtml:link rel="alternate" href="/hu/film/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/film/" hreflang="en"/>
+    
+      <loc>/hu/film/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -20,7 +26,10 @@
     
     <url>
     
-      <loc>/hu/musicians_hu/</loc>
+      <xhtml:link rel="alternate" href="/hu/musicians/" hreflang="hu"/>
+      <xhtml:link rel="alternate" href="/musicians/" hreflang="en"/>
+    
+      <loc>/hu/musicians/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -28,7 +37,7 @@
     
     <url>
     
-      <loc>/hu/cap_hu/cap_felmeresek/</loc>
+      <loc>/hu/cap/cap_felmeresek/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -36,7 +45,7 @@
     
     <url>
     
-      <loc>/hu/film_hu/mozgokepes_felmeresek/</loc>
+      <loc>/hu/film/mozgokepes_felmeresek/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,7 +53,7 @@
     
     <url>
     
-      <loc>/hu/musicians_hu/zenei_felmeresek/</loc>
+      <loc>/hu/musicians/zenei_felmeresek/</loc>
       <lastmod>2019-01-03T00:00:00+01:00</lastmod>
     </url>
     
@@ -53,7 +62,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/surveys/example/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/surveys/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/surveys/example/" hreflang="en"/>
     
       <loc>/hu/surveys/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
@@ -72,7 +81,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/surveys/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/surveys/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/surveys/" hreflang="en"/>
     
       <loc>/hu/surveys/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
@@ -91,7 +100,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/talk/example/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/talk/example/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/talk/example/" hreflang="en"/>
     
       <loc>/hu/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
@@ -102,7 +111,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/talk/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/talk/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/talk/" hreflang="en"/>
     
       <loc>/hu/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
@@ -113,7 +122,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/post/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/post/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/post/" hreflang="en"/>
     
       <loc>/hu/post/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
@@ -124,7 +133,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/publication/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/publication/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/publication/" hreflang="en"/>
     
       <loc>/hu/publication/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
@@ -135,7 +144,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/project/internal-project/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/project/internal-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/project/internal-project/" hreflang="en"/>
     
       <loc>/hu/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
@@ -146,7 +155,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/project/external-project/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/project/external-project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/project/external-project/" hreflang="en"/>
     
       <loc>/hu/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
@@ -165,7 +174,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/publication/person-re-id/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/publication/person-re-id/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/publication/person-re-id/" hreflang="en"/>
     
       <loc>/hu/publication/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
@@ -176,7 +185,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/publication/clothing-search/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/publication/clothing-search/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/publication/clothing-search/" hreflang="en"/>
     
       <loc>/hu/publication/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
@@ -187,7 +196,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/publication_types/1/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/publication_types/1/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/publication_types/1/" hreflang="en"/>
     
       <loc>/hu/publication_types/1/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
@@ -199,7 +208,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/publication_types/2/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/publication_types/2/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/publication_types/2/" hreflang="en"/>
     
       <loc>/hu/publication_types/2/</loc>
       <lastmod>2015-09-01T00:00:00+02:00</lastmod>
@@ -220,7 +229,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/" hreflang="en"/>
     
       <loc>/hu/</loc>
       <lastmod>2017-10-15T00:00:00+02:00</lastmod>
@@ -232,7 +241,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/categories/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/categories/" hreflang="en"/>
     
       <loc>/hu/categories/</loc>
       <priority>0</priority>
@@ -243,7 +252,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/tags/deep-learning/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/tags/deep-learning/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/tags/deep-learning/" hreflang="en"/>
     
       <loc>/hu/tags/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
@@ -264,7 +273,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/project/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/project/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/project/" hreflang="en"/>
     
       <loc>/hu/project/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
@@ -276,7 +285,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/publication_types/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/publication_types/" hreflang="en"/>
     
       <loc>/hu/publication_types/</loc>
       <lastmod>2013-07-01T00:00:00+02:00</lastmod>
@@ -288,7 +297,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/slides/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/slides/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/slides/" hreflang="en"/>
     
       <loc>/hu/slides/</loc>
       <priority>0</priority>
@@ -299,7 +308,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/slides/example-slides/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/slides/example-slides/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/slides/example-slides/" hreflang="en"/>
     
       <loc>/hu/slides/example-slides/</loc>
     </url>
@@ -309,7 +318,7 @@
     <url>
     
       <xhtml:link rel="alternate" href="/hu/tags/" hreflang="hu"/>
-      <xhtml:link rel="alternate" href="/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="/tags/" hreflang="en"/>
     
       <loc>/hu/tags/</loc>
       <lastmod>2018-01-13T00:00:00+01:00</lastmod>

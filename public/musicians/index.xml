@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music Industry Surveys on CEEMID</title>
+    <link>/musicians/</link>
+    <description>Recent content in Music Industry Surveys on CEEMID</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2014 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/musicians/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview</title>
+      <link>/musicians/music_industry_surveyes/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/musicians/music_industry_surveyes/</guid>
+      <description>What are Music Industry Professional Surveys? The Music Industry Professional Surveys and the similar Audiovisual Industries Professional Surveys were designed to fill out the gaps from other data sources. These surveys are anonymously asking music and film professionals about their work, their royalties and other incomes, and some budgetary issues. The CEEMID Music Professional Surveys are among the biggest musician surveys, besides the survey supporting the UK Measuring Music Surveys.</description>
+    </item>
+    
+  </channel>
+</rss>

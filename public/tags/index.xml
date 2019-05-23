@@ -6,20 +6,11 @@
     <description>Recent content in Tags on CEEMID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <copyright>&amp;copy; 2014 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Deep Learning</title>
@@ -31,11 +22,92 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
+      <title>EUCJ</title>
+      <link>/tags/eucj/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/eucj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>/tags/google/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>benchmarking</title>
+      <link>/tags/benchmarking/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/benchmarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bestweek</title>
+      <link>/tags/bestweek/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/bestweek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concerts</title>
+      <link>/tags/concerts/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/concerts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jurisprudence</title>
+      <link>/tags/jurisprudence/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/jurisprudence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mechanical royalties</title>
+      <link>/tags/mechanical-royalties/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/mechanical-royalties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>public performance royalties</title>
+      <link>/tags/public-performance-royalties/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/public-performance-royalties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seasonality</title>
+      <link>/tags/seasonality/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/seasonality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ticket-sales</title>
+      <link>/tags/ticket-sales/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/ticket-sales/</guid>
       <description></description>
     </item>
     

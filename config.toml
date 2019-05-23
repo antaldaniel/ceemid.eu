@@ -7,9 +7,7 @@ baseurl = "/"
 # Title of your site
 title = "CEEMID"
 
-# Your copyright notice - appears in site footer.
-# To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2019"
+copyright = "&copy; 2014 - &copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -27,7 +25,7 @@ googleAnalytics = ""
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
 enableGitInfo = false
@@ -53,7 +51,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "CEEMID", url = "" } ]
+  organizations = [ { name = "CEEMID", url = "www.ceemid.eu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -109,7 +107,7 @@ enableGitInfo = false
   font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
-  description = "CEEMID Central European Music Industry Databases"
+  description = ""
 
   # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
   sharing_image = ""
@@ -122,16 +120,14 @@ enableGitInfo = false
   logo = ""
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
-  #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  date_format = "2006-01-02"
+  time_format = "15:04"
 
   # Show estimated reading time for posts?
-  reading_time = true
-
+  reading_time = false
+  
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -183,7 +179,6 @@ enableGitInfo = false
   custom_js  = []
 
   # Publication types.
-  #   Used to categorize publications.
   #   The index of the publication type in the list is used as its unique numerical identifier.
   #   The numeric ID is used in a publication's frontmatter to categorize it.
   #   The language can be edited below.
@@ -206,14 +201,11 @@ enableGitInfo = false
 
   # Configuration of publication pages.
   [params.publications]
-    # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-    #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    date_format = "2006-01-02"      #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 
   # Configuration of project pages.
   [params.projects]
-    # List publications and talks related to the project?
-    list_children = true
+    list_children = true     # List publications and talks related to the project?
 
     # Post list format.
     #   0 = Simple
@@ -334,17 +326,17 @@ enableGitInfo = false
   identifier = "surveys"
  [[menu.main]]
   name = "CAP Surveys"
-  url = "/cap_en/"
+  url = "/cap/"
   weight = 7
   parent = "surveys"
   [[menu.main]]
   name = "Music Industry Surveys"
-  url = "/musicians_en/"
+  url = "/musicians/"
   weight = 8
   parent = "surveys"
   [[menu.main]]
   name = "Film Industry Surveys"
-  url = "/film_en/"
+  url = "/film/"
   weight = 9
   parent = "surveys"
 

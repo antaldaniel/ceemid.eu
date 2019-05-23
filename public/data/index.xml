@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Sources on CEEMID</title>
+    <link>/data/</link>
+    <description>Recent content in Data Sources on CEEMID</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2014 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Source Overview</title>
+      <link>/data/data_sources/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>/data/data_sources/</guid>
+      <description>Statistical data The CEEMID system regularly harvests Eurostat and national statistical office data, and compiles the new data into comparable format, for example, via valid currency translations. Our automatic data retrieval makes sure that we always have the latest data available.
+PSI, OpenStatistics, OpenGov Following the EU directive on the re-use of public sector information, open statistics and open government initiatives, we are using raw data collected for statistical or research purposes and creating new statistical products.</description>
+    </item>
+    
+  </channel>
+</rss>

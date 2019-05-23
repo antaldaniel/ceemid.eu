@@ -6,20 +6,41 @@
     <description>Recent content in CAP Surveys on CEEMID</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <copyright>&amp;copy; 2014 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/cap/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CAP Surveys</title>
+      <title>CAP Croatia 2017</title>
+      <link>/cap/cap_croatia_2017/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/cap/cap_croatia_2017/</guid>
+      <description>CAP Croatia 2017 The survey was used to calculate the fair compensation for private copying in Croatia.
+ N = 809
+ Methodology = CAPI Hendal
+ 233 variables.
+  We measured the total number of songs and audiovisual works in the households, new acquisitions, unlicensed copies, torrenting, and the standard CAP variables for comparison.</description>
+    </item>
+    
+    <item>
+      <title>CAP Hungary 2017</title>
+      <link>/cap/cap_hungary_2017/</link>
+      <pubDate>Tue, 22 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/cap/cap_hungary_2017/</guid>
+      <description> CAP Hungary 2017 </description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
       <link>/cap/cap_surveys/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/cap/cap_surveys/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-What are CAP Surveys? Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc. They are based on various quantative sociological models and had been standardized by the Eurostat working group ESSNet-Culture.
+      <description>What are CAP Surveys? Cultural Access and Participation Surveys are standardized surveys designed to measure various market-based and non-market based (amateur, liturgical, etc.) cultural activities, including concerts, streaming subscriptions, singing, etc. They are based on various quantative sociological models and had been standardized by the Eurostat working group ESSNet-Culture.
 The CEEMID CAP surveys are usually live interviews that allow cross-country comparison, and they are used both for market forcasting, market analytics, royalty and compensation value setting.</description>
     </item>
     

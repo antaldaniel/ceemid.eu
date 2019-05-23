@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seasonality on CEEMID</title>
+    <link>/tags/seasonality/</link>
+    <description>Recent content in seasonality on CEEMID</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2014 - &amp;copy; 2019</copyright>
+    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/seasonality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>National And Regional Google Analytics Is Back</title>
+      <link>/post/google_trends_seasonality/</link>
+      <pubDate>Fri, 20 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/post/google_trends_seasonality/</guid>
+      <description>An important aspect of the relatively week CEE markets is the very strong seasonality aspect. Ljubjlana, Zagreb, Budapest and Prague are full with life and concerting opportunities in December, but the difference in interest for concerts among peak months and low month can be as much as 40%, about the double of the all-year Viennese market. Summer festivals obviously alter the picture, but it is essential for tour organizers as well as concert promoters to understand seasonality and to build longer tour seasons in these countries.</description>
+    </item>
+    
+  </channel>
+</rss>
